@@ -10,7 +10,7 @@ source:
   sha256: 5de607e15f192b8ad90738300759d88dea0f5ccdce3bf00048a0c932bc645154
 
 build:
-  number: 2
+  number: 3
   ## should in principle work on mac and windows, just needs work to get it to build
   skip: true  # [not linux]
   run_exports:
